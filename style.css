@@ -1,0 +1,39 @@
+body{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(2, 84, 95);
+}
+
+.div1 h1{
+    color: azure;
+    position: relative;
+    left: 119px;
+    top: 16px;
+}
+
+.div2{
+    width: 368px;
+    height: 272px;
+    background-color: rgb(65, 29, 148);
+    position: relative;
+    left: 453px;
+    top: 153px;
+    border-radius: 10px;
+} 
+
+.div3 input{
+    width: 166px;
+    height: -1px;
+    position: relative;
+    left: 9px;
+    top: 4px;
+}
+.main button{
+    width: 50%;
+    position: absolute;
+    top: 230px;
+    left: 12vh;
+    background-color: blue;
+    color: white;
+}
+
