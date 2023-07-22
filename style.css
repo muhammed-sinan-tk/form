@@ -36,4 +36,10 @@ body{
     background-color: blue;
     color: white;
 }
+@media screen and (max-width:450px) {
+    .div2{
+        margin-left: -340px;
+    }
+} 
+
 
